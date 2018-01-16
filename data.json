@@ -1,0 +1,4370 @@
+[
+  {
+    "name": "12 Angry Men",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2007"
+  },
+  {
+    "name": "13 Lakes",
+    "type": "Documentary",
+    "release": "2004",
+    "inducted": "2014"
+  },
+  {
+    "name": "20,000 Leagues Under the Sea",
+    "type": "Narrative feature",
+    "release": "1916",
+    "inducted": "2016"
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "1991"
+  },
+  {
+    "name": "3:10 to Yuma",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2012"
+  },
+  {
+    "name": "4 Little Girls",
+    "type": "Documentary",
+    "release": "1997",
+    "inducted": "2017"
+  },
+  {
+    "name": "42nd Street",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "1998"
+  },
+  {
+    "name": "The 7th Voyage of Sinbad",
+    "type": "Narrative feature",
+    "release": "1958",
+    "inducted": "2008"
+  },
+  {
+    "name": "Abbott and Costello Meet Frankenstein",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "2001"
+  },
+  {
+    "name": "Ace in the Hole",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "2017"
+  },
+  {
+    "name": "Adam's Rib",
+    "type": "Narrative feature",
+    "release": "1949",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Adventures of Robin Hood",
+    "type": "Narrative feature",
+    "release": "1938",
+    "inducted": "1995"
+  },
+  {
+    "name": "The African Queen",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "1994"
+  },
+  {
+    "name": "Airplane!",
+    "type": "Narrative feature",
+    "release": "1980",
+    "inducted": "2010"
+  },
+  {
+    "name": "Alien",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2002"
+  },
+  {
+    "name": "All About Eve",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "1990"
+  },
+  {
+    "name": "All My Babies",
+    "type": "Documentary",
+    "release": "1953",
+    "inducted": "2002"
+  },
+  {
+    "name": "All Quiet on the Western Front",
+    "type": "Narrative feature",
+    "release": "1930",
+    "inducted": "1990"
+  },
+  {
+    "name": "All That Heaven Allows",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "1995"
+  },
+  {
+    "name": "All That Jazz",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2001"
+  },
+  {
+    "name": "All the King's Men",
+    "type": "Narrative feature",
+    "release": "1949",
+    "inducted": "2001"
+  },
+  {
+    "name": "All the President's Men",
+    "type": "Narrative feature",
+    "release": "1976",
+    "inducted": "2010"
+  },
+  {
+    "name": "Allures",
+    "type": "Short subject/experimental film",
+    "release": "1961",
+    "inducted": "2011"
+  },
+  {
+    "name": "America America",
+    "type": "Narrative feature",
+    "release": "1963",
+    "inducted": "2001"
+  },
+  {
+    "name": "American Graffiti",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "1995"
+  },
+  {
+    "name": "An American in Paris",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "1993"
+  },
+  {
+    "name": "Anatomy of a Murder",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "2012"
+  },
+  {
+    "name": "Annie Hall",
+    "type": "Narrative feature",
+    "release": "1977",
+    "inducted": "1992"
+  },
+  {
+    "name": "Antonia: A Portrait of the Woman",
+    "type": "Documentary",
+    "release": "1974",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Apartment",
+    "type": "Narrative feature",
+    "release": "1960",
+    "inducted": "1994"
+  },
+  {
+    "name": "Apocalypse Now",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2000"
+  },
+  {
+    "name": "Appalachian Spring (one of the four Martha Graham dance films added in 2013)",
+    "type": "Short",
+    "release": "1944",
+    "inducted": "2013"
+  },
+  {
+    "name": "Applause",
+    "type": "Narrative feature",
+    "release": "1929",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Asphalt Jungle",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "2008"
+  },
+  {
+    "name": "Atlantic City",
+    "type": "Narrative feature",
+    "release": "1980",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Atomic Cafe",
+    "type": "Documentary",
+    "release": "1982",
+    "inducted": "2016"
+  },
+  {
+    "name": "The Augustas",
+    "type": "Home film/documentary",
+    "release": "1930s–1950s",
+    "inducted": "2012"
+  },
+  {
+    "name": "The Awful Truth",
+    "type": "Narrative feature",
+    "release": "1937",
+    "inducted": "1996"
+  },
+  {
+    "name": "Baby Face",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2005"
+  },
+  {
+    "name": "Back to the Future",
+    "type": "Narrative feature",
+    "release": "1985",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Bad and the Beautiful",
+    "type": "Narrative feature",
+    "release": "1952",
+    "inducted": "2002"
+  },
+  {
+    "name": "Badlands",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "1993"
+  },
+  {
+    "name": "Ball of Fire",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "2016"
+  },
+  {
+    "name": "Bambi",
+    "type": "Animated narrative feature",
+    "release": "1942",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Band Wagon",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "1995"
+  },
+  {
+    "name": "The Bank Dick",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Bargain",
+    "type": "Narrative feature",
+    "release": "1914",
+    "inducted": "2010"
+  },
+  {
+    "name": "The Battle of San Pietro",
+    "type": "Documentary",
+    "release": "1945",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Beau Brummels",
+    "type": "Short subject",
+    "release": "1928",
+    "inducted": "2016"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "type": "Animated narrative feature",
+    "release": "1991",
+    "inducted": "2002"
+  },
+  {
+    "name": "Being There",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2015"
+  },
+  {
+    "name": "Ben-Hur: A Tale of the Christ",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "1997"
+  },
+  {
+    "name": "Ben-Hur",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "2004"
+  },
+  {
+    "name": "Bert Williams: Lime Kiln Club Field Day",
+    "type": "Narrative feature",
+    "release": "1913",
+    "inducted": "2014"
+  },
+  {
+    "name": "The Best Years of Our Lives",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "1989"
+  },
+  {
+    "name": "Big Business",
+    "type": "Short subject",
+    "release": "1929",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Big Heat",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Big Lebowski",
+    "type": "Narrative feature",
+    "release": "1998",
+    "inducted": "2014"
+  },
+  {
+    "name": "The Big Parade",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Big Sleep",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Big Trail",
+    "type": "Narrative feature",
+    "release": "1930",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Birds",
+    "type": "Narrative feature",
+    "release": "1963",
+    "inducted": "2016"
+  },
+  {
+    "name": "The Birth of a Nation",
+    "type": "Narrative feature",
+    "release": "1915",
+    "inducted": "1992"
+  },
+  {
+    "name": "Black and Tan",
+    "type": "Short subject",
+    "release": "1929",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Black Pirate",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Black Stallion",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2002"
+  },
+  {
+    "name": "Blackboard Jungle",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "2016"
+  },
+  {
+    "name": "Blacksmith Scene",
+    "type": "Short subject",
+    "release": "1893",
+    "inducted": "1995"
+  },
+  {
+    "name": "Blade Runner",
+    "type": "Narrative feature",
+    "release": "1982",
+    "inducted": "1993"
+  },
+  {
+    "name": "Blazing Saddles",
+    "type": "Narrative feature",
+    "release": "1974",
+    "inducted": "2006"
+  },
+  {
+    "name": "Bless Their Little Hearts",
+    "type": "Narrative feature",
+    "release": "1984",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Blood of Jesus",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Blue Bird",
+    "type": "Narrative feature",
+    "release": "1918",
+    "inducted": "2004"
+  },
+  {
+    "name": "Bonnie and Clyde",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "1992"
+  },
+  {
+    "name": "Born Yesterday",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "2012"
+  },
+  {
+    "name": "Boulevard Nights",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2017"
+  },
+  {
+    "name": "Boyz n the Hood",
+    "type": "Narrative feature",
+    "release": "1991",
+    "inducted": "2002"
+  },
+  {
+    "name": "Brandy in the Wilderness",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "2013"
+  },
+  {
+    "name": "Breakfast at Tiffany's",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "2012"
+  },
+  {
+    "name": "The Breakfast Club",
+    "type": "Narrative feature",
+    "release": "1985",
+    "inducted": "2016"
+  },
+  {
+    "name": "Bride of Frankenstein",
+    "type": "Narrative feature",
+    "release": "1935",
+    "inducted": "1998"
+  },
+  {
+    "name": "The Bridge on the River Kwai",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "1997"
+  },
+  {
+    "name": "Bringing Up Baby",
+    "type": "Narrative feature",
+    "release": "1938",
+    "inducted": "1990"
+  },
+  {
+    "name": "Broken Blossoms",
+    "type": "Narrative feature",
+    "release": "1919",
+    "inducted": "1996"
+  },
+  {
+    "name": "A Bronx Morning",
+    "type": "Short subject",
+    "release": "1931",
+    "inducted": "2004"
+  },
+  {
+    "name": "The Buffalo Creek Flood: An Act of Man",
+    "type": "Documentary",
+    "release": "1975",
+    "inducted": "2005"
+  },
+  {
+    "name": "Bullitt",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "2007"
+  },
+  {
+    "name": "Butch Cassidy and the Sundance Kid",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "2003"
+  },
+  {
+    "name": "Cabaret",
+    "type": "Narrative feature",
+    "release": "1972",
+    "inducted": "1995"
+  },
+  {
+    "name": "The Cameraman",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2005"
+  },
+  {
+    "name": "Carmen Jones",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "1992"
+  },
+  {
+    "name": "Casablanca",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1989"
+  },
+  {
+    "name": "Castro Street",
+    "type": "Documentary/short subject/experimental film",
+    "release": "1966",
+    "inducted": "1992"
+  },
+  {
+    "name": "Cat People",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1993"
+  },
+  {
+    "name": "Chan Is Missing",
+    "type": "Narrative feature",
+    "release": "1982",
+    "inducted": "1995"
+  },
+  {
+    "name": "The Cheat",
+    "type": "Narrative feature",
+    "release": "1915",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Chechahcos",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "2003"
+  },
+  {
+    "name": "Chinatown",
+    "type": "Narrative feature",
+    "release": "1974",
+    "inducted": "1991"
+  },
+  {
+    "name": "A Christmas Story",
+    "type": "Narrative feature",
+    "release": "1983",
+    "inducted": "2012"
+  },
+  {
+    "name": "Chulas Fronteras",
+    "type": "Documentary",
+    "release": "1976",
+    "inducted": "1993"
+  },
+  {
+    "name": "Cicero March",
+    "type": "Documentary/short subject",
+    "release": "1966",
+    "inducted": "2013"
+  },
+  {
+    "name": "Citizen Kane",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "1989"
+  },
+  {
+    "name": "The City",
+    "type": "Documentary",
+    "release": "1939",
+    "inducted": "1998"
+  },
+  {
+    "name": "City Lights",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "1991"
+  },
+  {
+    "name": "Civilization",
+    "type": "Narrative feature",
+    "release": "1916",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Clash of the Wolves",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "2004"
+  },
+  {
+    "name": "Close Encounters of the Third Kind",
+    "type": "Narrative feature",
+    "release": "1977",
+    "inducted": "2007"
+  },
+  {
+    "name": "Cologne: From the Diary of Ray and Esther",
+    "type": "Documentary/short subject",
+    "release": "1939",
+    "inducted": "2001"
+  },
+  {
+    "name": "Commandment Keeper Church, Beaufort South Carolina, May 1940",
+    "type": "Documentary/short subject",
+    "release": "1940",
+    "inducted": "2005"
+  },
+  {
+    "name": "A Computer Animated Hand",
+    "type": "Animated short subject/experimental film",
+    "release": "1972",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Conversation",
+    "type": "Narrative feature",
+    "release": "1974",
+    "inducted": "1995"
+  },
+  {
+    "name": "Cool Hand Luke",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "2005"
+  },
+  {
+    "name": "The Cool World",
+    "type": "Narrative feature",
+    "release": "1963",
+    "inducted": "1994"
+  },
+  {
+    "name": "Cops",
+    "type": "Short subject",
+    "release": "1922",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Corbett-Fitzsimmons Fight",
+    "type": "Documentary",
+    "release": "1897",
+    "inducted": "2012"
+  },
+  {
+    "name": "A Corner in Wheat",
+    "type": "Short subject",
+    "release": "1909",
+    "inducted": "1994"
+  },
+  {
+    "name": "The Court Jester",
+    "type": "Narrative feature",
+    "release": "1956",
+    "inducted": "2004"
+  },
+  {
+    "name": "Crisis: Behind a Presidential Commitment",
+    "type": "Documentary",
+    "release": "1963",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Crowd",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "1989"
+  },
+  {
+    "name": "Cry of Jazz",
+    "type": "Short subject",
+    "release": "1959",
+    "inducted": "2010"
+  },
+  {
+    "name": "The Cry of the Children",
+    "type": "Short subject",
+    "release": "1912",
+    "inducted": "2011"
+  },
+  {
+    "name": "A Cure for Pokeritis",
+    "type": "Short subject",
+    "release": "1912",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Curse of Quon Gwon",
+    "type": "Short subject",
+    "release": "1916–1917",
+    "inducted": "2006"
+  },
+  {
+    "name": "Czechoslovakia 1968",
+    "type": "Documentary/short subject",
+    "release": "1969",
+    "inducted": "1997"
+  },
+  {
+    "name": "Dance, Girl, Dance",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "2007"
+  },
+  {
+    "name": "Dances with Wolves",
+    "type": "Narrative feature",
+    "release": "1990",
+    "inducted": "2007"
+  },
+  {
+    "name": "Daughter of Dawn",
+    "type": "Narrative feature",
+    "release": "1920",
+    "inducted": "2013"
+  },
+  {
+    "name": "Daughter of Shanghai",
+    "type": "Narrative feature",
+    "release": "1937",
+    "inducted": "2006"
+  },
+  {
+    "name": "Daughters of the Dust",
+    "type": "Narrative feature",
+    "release": "1991",
+    "inducted": "2004"
+  },
+  {
+    "name": "David Holzman's Diary",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Day the Earth Stood Still",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "1995"
+  },
+  {
+    "name": "Days of Heaven",
+    "type": "Narrative feature",
+    "release": "1978",
+    "inducted": "2007"
+  },
+  {
+    "name": "Dead Birds",
+    "type": "Documentary",
+    "release": "1964",
+    "inducted": "1998"
+  },
+  {
+    "name": "Decasia",
+    "type": "Documentary",
+    "release": "2002",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Decline of Western Civilization",
+    "type": "Documentary",
+    "release": "1981",
+    "inducted": "2016"
+  },
+  {
+    "name": "The Deer Hunter",
+    "type": "Narrative feature",
+    "release": "1978",
+    "inducted": "1996"
+  },
+  {
+    "name": "Deliverance",
+    "type": "Narrative feature",
+    "release": "1972",
+    "inducted": "2008"
+  },
+  {
+    "name": "Destry Rides Again",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1996"
+  },
+  {
+    "name": "Detour",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Dickson Experimental Sound Film",
+    "type": "Short subject/experimental film",
+    "release": "1894 or 1895",
+    "inducted": "2003"
+  },
+  {
+    "name": "Die Hard",
+    "type": "Narrative feature",
+    "release": "1988",
+    "inducted": "2017"
+  },
+  {
+    "name": "Dirty Harry",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "2012"
+  },
+  {
+    "name": "Disneyland Dream",
+    "type": "Home film",
+    "release": "1956",
+    "inducted": "2008"
+  },
+  {
+    "name": "D.O.A.",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "2004"
+  },
+  {
+    "name": "Do the Right Thing",
+    "type": "Narrative feature",
+    "release": "1989",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Docks of New York",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "1999"
+  },
+  {
+    "name": "Dodsworth",
+    "type": "Narrative feature",
+    "release": "1936",
+    "inducted": "1990"
+  },
+  {
+    "name": "Dog Day Afternoon",
+    "type": "Narrative feature",
+    "release": "1975",
+    "inducted": "2009"
+  },
+  {
+    "name": "Dog Star Man Part IV",
+    "type": "Short subject/experimental film",
+    "release": "1964",
+    "inducted": "1992"
+  },
+  {
+    "name": "Dont Look Back",
+    "type": "Documentary",
+    "release": "1967",
+    "inducted": "1998"
+  },
+  {
+    "name": "Double Indemnity",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "1992"
+  },
+  {
+    "name": "Down Argentine Way",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "2014"
+  },
+  {
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "type": "Narrative feature",
+    "release": "1964",
+    "inducted": "1989"
+  },
+  {
+    "name": "Dracula",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "2000"
+  },
+  {
+    "name": "Drácula",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Dragon Painter",
+    "type": "Narrative feature",
+    "release": "1919",
+    "inducted": "2014"
+  },
+  {
+    "name": "Dream of a Rarebit Fiend",
+    "type": "Short subject",
+    "release": "1906",
+    "inducted": "2015"
+  },
+  {
+    "name": "Drums of Winter",
+    "type": "Documentary",
+    "release": "1988",
+    "inducted": "2006"
+  },
+  {
+    "name": "Duck Amuck",
+    "type": "Animated short subject",
+    "release": "1953",
+    "inducted": "1999"
+  },
+  {
+    "name": "Duck and Cover",
+    "type": "Animated short subject",
+    "release": "1951",
+    "inducted": "2004"
+  },
+  {
+    "name": "Duck Soup",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "1990"
+  },
+  {
+    "name": "Dumbo",
+    "type": "Animated narrative feature",
+    "release": "1941",
+    "inducted": "2017"
+  },
+  {
+    "name": "Eadweard Muybridge, Zoopraxographer",
+    "type": "Documentary",
+    "release": "1975",
+    "inducted": "2015"
+  },
+  {
+    "name": "Early Abstractions[I]",
+    "type": "Animated short subjects",
+    "release": "1939–1956",
+    "inducted": "2006"
+  },
+  {
+    "name": "East of Eden",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "2016"
+  },
+  {
+    "name": "Easy Rider",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "1998"
+  },
+  {
+    "name": "Eaux d'Artifice",
+    "type": "Short subject",
+    "release": "1953",
+    "inducted": "1993"
+  },
+  {
+    "name": "Edison Kinetographic Record of a Sneeze",
+    "type": "Documentary short subject",
+    "release": "1894",
+    "inducted": "2015"
+  },
+  {
+    "name": "Electronic Labyrinth: THX 1138 4EB",
+    "type": "Short subject",
+    "release": "1967",
+    "inducted": "2010"
+  },
+  {
+    "name": "El Mariachi",
+    "type": "Narrative feature",
+    "release": "1992",
+    "inducted": "2011"
+  },
+  {
+    "name": "El Norte",
+    "type": "Narrative feature",
+    "release": "1983",
+    "inducted": "1995"
+  },
+  {
+    "name": "Ella Cinders",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Emperor Jones",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "1999"
+  },
+  {
+    "name": "Empire",
+    "type": "Experimental film",
+    "release": "1964",
+    "inducted": "2004"
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "type": "Narrative feature",
+    "release": "1980",
+    "inducted": "2010"
+  },
+  {
+    "name": "The Endless Summer",
+    "type": "Documentary",
+    "release": "1966",
+    "inducted": "2002"
+  },
+  {
+    "name": "Enter the Dragon",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "2004"
+  },
+  {
+    "name": "Eraserhead",
+    "type": "Narrative feature",
+    "release": "1977",
+    "inducted": "2004"
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "type": "Narrative feature",
+    "release": "1982",
+    "inducted": "1994"
+  },
+  {
+    "name": "The Evidence of the Film",
+    "type": "Short subject",
+    "release": "1913",
+    "inducted": "2001"
+  },
+  {
+    "name": "The Exiles",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Exorcist",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "2010"
+  },
+  {
+    "name": "The Exploits of Elaine[VII]",
+    "type": "Film serial",
+    "release": "1914",
+    "inducted": "1994"
+  },
+  {
+    "name": "A Face in the Crowd",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2008"
+  },
+  {
+    "name": "Faces",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "2011"
+  },
+  {
+    "name": "Fake Fruit Factory",
+    "type": "Documentary/short subject",
+    "release": "1986",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Fall of the House of Usher",
+    "type": "Short subject",
+    "release": "1928",
+    "inducted": "2000"
+  },
+  {
+    "name": "Fantasia",
+    "type": "Animated narrative feature",
+    "release": "1940",
+    "inducted": "1990"
+  },
+  {
+    "name": "Fargo",
+    "type": "Narrative feature",
+    "release": "1996",
+    "inducted": "2006"
+  },
+  {
+    "name": "Fast Times at Ridgemont High",
+    "type": "Narrative feature",
+    "release": "1982",
+    "inducted": "2005"
+  },
+  {
+    "name": "Fatty's Tintype Tangle",
+    "type": "Short subject",
+    "release": "1915",
+    "inducted": "1995"
+  },
+  {
+    "name": "Felicia",
+    "type": "Short subject",
+    "release": "1965",
+    "inducted": "2014"
+  },
+  {
+    "name": "Ferris Bueller's Day Off",
+    "type": "Narrative feature",
+    "release": "1986",
+    "inducted": "2014"
+  },
+  {
+    "name": "Field of Dreams",
+    "type": "Narrative feature",
+    "release": "1989",
+    "inducted": "2017"
+  },
+  {
+    "name": "Film Portrait",
+    "type": "Documentary",
+    "release": "1970",
+    "inducted": "2003"
+  },
+  {
+    "name": "Five Easy Pieces",
+    "type": "Narrative feature",
+    "release": "1970",
+    "inducted": "2000"
+  },
+  {
+    "name": "Flash Gordon[II]",
+    "type": "Film serial",
+    "release": "1936",
+    "inducted": "1996"
+  },
+  {
+    "name": "Flesh and the Devil",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "2006"
+  },
+  {
+    "name": "Flower Drum Song",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "2008"
+  },
+  {
+    "name": "A Fool There Was",
+    "type": "Narrative feature",
+    "release": "1915",
+    "inducted": "2015"
+  },
+  {
+    "name": "Foolish Wives",
+    "type": "Narrative feature",
+    "release": "1922",
+    "inducted": "2008"
+  },
+  {
+    "name": "Footlight Parade",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "1992"
+  },
+  {
+    "name": "Forbidden Planet",
+    "type": "Narrative feature",
+    "release": "1956",
+    "inducted": "2013"
+  },
+  {
+    "name": "Force of Evil",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "1994"
+  },
+  {
+    "name": "The Forgotten Frontier",
+    "type": "Documentary",
+    "release": "1931",
+    "inducted": "1996"
+  },
+  {
+    "name": "Forrest Gump",
+    "type": "Narrative feature",
+    "release": "1994",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Four Horsemen of the Apocalypse",
+    "type": "Narrative feature",
+    "release": "1921",
+    "inducted": "1995"
+  },
+  {
+    "name": "Frank Film",
+    "type": "Animated short subject",
+    "release": "1973",
+    "inducted": "1996"
+  },
+  {
+    "name": "Frankenstein",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "1991"
+  },
+  {
+    "name": "Freaks",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "1994"
+  },
+  {
+    "name": "Free Radicals",
+    "type": "Animated short subject",
+    "release": "1979",
+    "inducted": "2008"
+  },
+  {
+    "name": "The French Connection",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "2005"
+  },
+  {
+    "name": "The Freshman",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "1990"
+  },
+  {
+    "name": "From Here to Eternity",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "2002"
+  },
+  {
+    "name": "From Stump to Ship",
+    "type": "Industrial/short subject",
+    "release": "1930",
+    "inducted": "2002"
+  },
+  {
+    "name": "From the Manger to the Cross",
+    "type": "Narrative feature",
+    "release": "1912",
+    "inducted": "1998"
+  },
+  {
+    "name": "The Front Page",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "2010"
+  },
+  {
+    "name": "Frontier (one of the four Martha Graham dance films added in 2013)",
+    "type": "Short",
+    "release": "1935",
+    "inducted": "2013"
+  },
+  {
+    "name": "Fuentes Family Home Movies Collection",
+    "type": "Home films",
+    "release": "1920s-1930s",
+    "inducted": "2017"
+  },
+  {
+    "name": "Fuji",
+    "type": "Short subject",
+    "release": "1974",
+    "inducted": "2002"
+  },
+  {
+    "name": "Funny Girl",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "2016"
+  },
+  {
+    "name": "Fury",
+    "type": "Narrative feature",
+    "release": "1936",
+    "inducted": "1995"
+  },
+  {
+    "name": "The Gang's All Here",
+    "type": "Narrative feature",
+    "release": "1943",
+    "inducted": "2014"
+  },
+  {
+    "name": "Garlic Is as Good as Ten Mothers",
+    "type": "Documentary",
+    "release": "1980",
+    "inducted": "2004"
+  },
+  {
+    "name": "The General",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "1989"
+  },
+  {
+    "name": "Gentleman's Agreement",
+    "type": "Narrative feature",
+    "release": "1947",
+    "inducted": "2017"
+  },
+  {
+    "name": "George Stevens World War II Footage",
+    "type": "Documentary",
+    "release": "1943–1946",
+    "inducted": "2008"
+  },
+  {
+    "name": "Gerald McBoing-Boing",
+    "type": "Animated short subject",
+    "release": "1950",
+    "inducted": "1995"
+  },
+  {
+    "name": "Gertie the Dinosaur",
+    "type": "Animated short subject",
+    "release": "1914",
+    "inducted": "1991"
+  },
+  {
+    "name": "Ghostbusters",
+    "type": "Narrative feature",
+    "release": "1984",
+    "inducted": "2015"
+  },
+  {
+    "name": "Giant",
+    "type": "Narrative feature",
+    "release": "1956",
+    "inducted": "2005"
+  },
+  {
+    "name": "Gigi",
+    "type": "Narrative feature",
+    "release": "1958",
+    "inducted": "1991"
+  },
+  {
+    "name": "Gilda",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "2013"
+  },
+  {
+    "name": "Glimpse of the Garden",
+    "type": "Short subject",
+    "release": "1957",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Godfather",
+    "type": "Narrative feature",
+    "release": "1972",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Godfather Part II",
+    "type": "Narrative feature",
+    "release": "1974",
+    "inducted": "1993"
+  },
+  {
+    "name": "Going My Way",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "2004"
+  },
+  {
+    "name": "Gold Diggers of 1933",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Gold Rush",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "1992"
+  },
+  {
+    "name": "Gone with the Wind",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1989"
+  },
+  {
+    "name": "Goodfellas",
+    "type": "Narrative feature",
+    "release": "1990",
+    "inducted": "2000"
+  },
+  {
+    "name": "The Goonies",
+    "type": "Narrative feature",
+    "release": "1985",
+    "inducted": "2017"
+  },
+  {
+    "name": "The Graduate",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "1996"
+  },
+  {
+    "name": "Grand Hotel",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Grapes of Wrath",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1989"
+  },
+  {
+    "name": "Grass",
+    "type": "Documentary",
+    "release": "1925",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Great Dictator",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Great Train Robbery",
+    "type": "Short subject",
+    "release": "1903",
+    "inducted": "1990"
+  },
+  {
+    "name": "Greed",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "1991"
+  },
+  {
+    "name": "Grey Gardens",
+    "type": "Documentary",
+    "release": "1975",
+    "inducted": "2010"
+  },
+  {
+    "name": "Groundhog Day",
+    "type": "Narrative feature",
+    "release": "1993",
+    "inducted": "2006"
+  },
+  {
+    "name": "Growing Up Female",
+    "type": "Documentary",
+    "release": "1971",
+    "inducted": "2011"
+  },
+  {
+    "name": "Guess Who's Coming to Dinner",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "2017"
+  },
+  {
+    "name": "Gun Crazy",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "1998"
+  },
+  {
+    "name": "Gunga Din",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1999"
+  },
+  {
+    "name": "H2O",
+    "type": "Short subject",
+    "release": "1929",
+    "inducted": "2005"
+  },
+  {
+    "name": "Hail the Conquering Hero",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "2015"
+  },
+  {
+    "name": "Hallelujah",
+    "type": "Narrative feature",
+    "release": "1929",
+    "inducted": "2008"
+  },
+  {
+    "name": "Halloween",
+    "type": "Narrative feature",
+    "release": "1978",
+    "inducted": "2006"
+  },
+  {
+    "name": "Hands Up!",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "2005"
+  },
+  {
+    "name": "Harlan County, USA",
+    "type": "Documentary",
+    "release": "1976",
+    "inducted": "1990"
+  },
+  {
+    "name": "Harold and Maude",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "1997"
+  },
+  {
+    "name": "He Who Gets Slapped",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "2017"
+  },
+  {
+    "name": "The Heiress",
+    "type": "Narrative feature",
+    "release": "1949",
+    "inducted": "1996"
+  },
+  {
+    "name": "Hell's Hinges",
+    "type": "Narrative feature",
+    "release": "1916",
+    "inducted": "1994"
+  },
+  {
+    "name": "Heretic (one of the four Martha Graham dance films added in 2013)",
+    "type": "Short",
+    "release": "1929",
+    "inducted": "2013"
+  },
+  {
+    "name": "Heroes All",
+    "type": "Documentary",
+    "release": "1920",
+    "inducted": "2009"
+  },
+  {
+    "name": "Hester Street",
+    "type": "Narrative feature",
+    "release": "1975",
+    "inducted": "2011"
+  },
+  {
+    "name": "High Noon",
+    "type": "Narrative feature",
+    "release": "1952",
+    "inducted": "1989"
+  },
+  {
+    "name": "High School",
+    "type": "Documentary",
+    "release": "1968",
+    "inducted": "1991"
+  },
+  {
+    "name": "Hindenburg Disaster Newsreel Footage",
+    "type": "Newsreel",
+    "release": "1937",
+    "inducted": "1997"
+  },
+  {
+    "name": "His Girl Friday",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Hitch-Hiker",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "1998"
+  },
+  {
+    "name": "The Hole",
+    "type": "Animated short subject",
+    "release": "1962",
+    "inducted": "2013"
+  },
+  {
+    "name": "Hoop Dreams",
+    "type": "Documentary",
+    "release": "1994",
+    "inducted": "2005"
+  },
+  {
+    "name": "Hoosiers",
+    "type": "Narrative feature",
+    "release": "1986",
+    "inducted": "2001"
+  },
+  {
+    "name": "Hospital",
+    "type": "Documentary",
+    "release": "1970",
+    "inducted": "1994"
+  },
+  {
+    "name": "The Hospital",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "1995"
+  },
+  {
+    "name": "Hot Dogs for Gauguin",
+    "type": "Short subject",
+    "release": "1972",
+    "inducted": "2009"
+  },
+  {
+    "name": "Hours for Jerome Parts 1 and 2",
+    "type": "Experimental film",
+    "release": "1980–1982",
+    "inducted": "2012"
+  },
+  {
+    "name": "The House I Live In",
+    "type": "Short subject",
+    "release": "1945",
+    "inducted": "2007"
+  },
+  {
+    "name": "The House in the Middle",
+    "type": "Documentary/short subject",
+    "release": "1954",
+    "inducted": "2001"
+  },
+  {
+    "name": "House of Usher",
+    "type": "Narrative feature",
+    "release": "1960",
+    "inducted": "2005"
+  },
+  {
+    "name": "House of Wax",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "2014"
+  },
+  {
+    "name": "How Green Was My Valley",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "1990"
+  },
+  {
+    "name": "How the West Was Won",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "1997"
+  },
+  {
+    "name": "Humoresque",
+    "type": "Narrative feature",
+    "release": "1920",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Hunters",
+    "type": "Documentary",
+    "release": "1957",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Hustler",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "1997"
+  },
+  {
+    "name": "I Am a Fugitive from a Chain Gang",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "1991"
+  },
+  {
+    "name": "I Am Joaquin",
+    "type": "Short subject",
+    "release": "1969",
+    "inducted": "2010"
+  },
+  {
+    "name": "I, An Actress",
+    "type": "Short subject",
+    "release": "1977",
+    "inducted": "2011"
+  },
+  {
+    "name": "Imitation of Life",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "2005"
+  },
+  {
+    "name": "Imitation of Life",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Immigrant",
+    "type": "Short subject",
+    "release": "1917",
+    "inducted": "1998"
+  },
+  {
+    "name": "In a Lonely Place",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "2007"
+  },
+  {
+    "name": "In Cold Blood",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "2008"
+  },
+  {
+    "name": "In the Heat of the Night",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "2002"
+  },
+  {
+    "name": "In the Land of the Head Hunters",
+    "type": "Narrative feature",
+    "release": "1914",
+    "inducted": "1999"
+  },
+  {
+    "name": "In the Street",
+    "type": "Documentary/short subject",
+    "release": "1948",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Incredible Shrinking Man",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Inner World of Aphasia",
+    "type": "Documentary short subject",
+    "release": "1968",
+    "inducted": "2015"
+  },
+  {
+    "name": "Inside Nazi Germany",
+    "type": "Documentary/short subject",
+    "release": "1938",
+    "inducted": "1993"
+  },
+  {
+    "name": "Interior New York Subway, 14th Street to 42nd Street",
+    "type": "Short subject",
+    "release": "1905",
+    "inducted": "2017"
+  },
+  {
+    "name": "Intolerance",
+    "type": "Narrative feature",
+    "release": "1916",
+    "inducted": "1989"
+  },
+  {
+    "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+    "type": "Documentary",
+    "release": "2000",
+    "inducted": "2014"
+  },
+  {
+    "name": "Invasion of the Body Snatchers",
+    "type": "Narrative feature",
+    "release": "1956",
+    "inducted": "1994"
+  },
+  {
+    "name": "The Invisible Man",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2008"
+  },
+  {
+    "name": "The Iron Horse",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "2011"
+  },
+  {
+    "name": "It",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "2001"
+  },
+  {
+    "name": "It Happened One Night",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "1993"
+  },
+  {
+    "name": "It's a Gift",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "2010"
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Italian",
+    "type": "Narrative feature",
+    "release": "1915",
+    "inducted": "1991"
+  },
+  {
+    "name": "Jailhouse Rock",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2004"
+  },
+  {
+    "name": "Jam Session",
+    "type": "Short subject",
+    "release": "1942",
+    "inducted": "2001"
+  },
+  {
+    "name": "Jammin' the Blues",
+    "type": "Short subject",
+    "release": "1944",
+    "inducted": "1995"
+  },
+  {
+    "name": "Jaws",
+    "type": "Narrative feature",
+    "release": "1975",
+    "inducted": "2001"
+  },
+  {
+    "name": "Jazz on a Summer's Day",
+    "type": "Documentary",
+    "release": "1960",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Jazz Singer",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "1996"
+  },
+  {
+    "name": "Jenkins Orphanage Band (Fox Movietone News)",
+    "type": "Newsreel",
+    "release": "1928",
+    "inducted": "2003"
+  },
+  {
+    "name": "Jezebel",
+    "type": "Narrative feature",
+    "release": "1938",
+    "inducted": "2009"
+  },
+  {
+    "name": "John Henry and the Inky-Poo",
+    "type": "Animated short subject",
+    "release": "1946",
+    "inducted": "2015"
+  },
+  {
+    "name": "Johnny Guitar",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "2008"
+  },
+  {
+    "name": "Jeffries-Johnson World's Championship Boxing Contest",
+    "type": "Documentary",
+    "release": "1910",
+    "inducted": "2005"
+  },
+  {
+    "name": "Judgment at Nuremberg",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Jungle",
+    "type": "Short subject",
+    "release": "1967",
+    "inducted": "2009"
+  },
+  {
+    "name": "Kannapolis, N.C.",
+    "type": "Documentary",
+    "release": "1941",
+    "inducted": "2004"
+  },
+  {
+    "name": "The Kid",
+    "type": "Narrative feature",
+    "release": "1921",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Kidnappers Foil[X]",
+    "type": "Narrative feature",
+    "release": "1930s–1950s",
+    "inducted": "2012"
+  },
+  {
+    "name": "Killer of Sheep",
+    "type": "Narrative feature",
+    "release": "1978",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Killers",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "2008"
+  },
+  {
+    "name": "King: A Filmed Record... Montgomery to Memphis",
+    "type": "Documentary",
+    "release": "1970",
+    "inducted": "1999"
+  },
+  {
+    "name": "King Kong",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "1991"
+  },
+  {
+    "name": "King of Jazz",
+    "type": "Narrative feature",
+    "release": "1930",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Kiss",
+    "type": "Short subject",
+    "release": "1896",
+    "inducted": "1999"
+  },
+  {
+    "name": "Kiss Me Deadly",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "1999"
+  },
+  {
+    "name": "Knute Rockne, All American",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1997"
+  },
+  {
+    "name": "Kodachrome Color Motion-Picture Test",
+    "type": "Experimental film",
+    "release": "1922",
+    "inducted": "2012"
+  },
+  {
+    "name": "Koyaanisqatsi",
+    "type": "Narrative feature",
+    "release": "1982",
+    "inducted": "2000"
+  },
+  {
+    "name": "La Bamba",
+    "type": "Narrative feature",
+    "release": "1987",
+    "inducted": "2017"
+  },
+  {
+    "name": "L.A. Confidential",
+    "type": "Narrative feature",
+    "release": "1997",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Lady Eve",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "1994"
+  },
+  {
+    "name": "Lady Helen's Escapade",
+    "type": "Short subject",
+    "release": "1909",
+    "inducted": "2004"
+  },
+  {
+    "name": "Lady Windermere's Fan",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "2002"
+  },
+  {
+    "name": "Lambchops",
+    "type": "Short subject",
+    "release": "1929",
+    "inducted": "1999"
+  },
+  {
+    "name": "Lamentation (one of the four Martha Graham dance films added in 2013)",
+    "type": "Short",
+    "release": "1930",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Land Beyond the Sunset",
+    "type": "Short subject",
+    "release": "1912",
+    "inducted": "2000"
+  },
+  {
+    "name": "Lassie Come Home",
+    "type": "Narrative feature",
+    "release": "1943",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Last Command",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Last of the Mohicans",
+    "type": "Narrative feature",
+    "release": "1920",
+    "inducted": "1995"
+  },
+  {
+    "name": "The Last Picture Show",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "1998"
+  },
+  {
+    "name": "Laura",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "1999"
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Lead Shoes",
+    "type": "Short subject/experimental film",
+    "release": "1949",
+    "inducted": "2009"
+  },
+  {
+    "name": "A League of Their Own",
+    "type": "Narrative feature",
+    "release": "1992",
+    "inducted": "2012"
+  },
+  {
+    "name": "The Learning Tree",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "1989"
+  },
+  {
+    "name": "Let's All Go to the Lobby",
+    "type": "Animated short subject",
+    "release": "1957",
+    "inducted": "2000"
+  },
+  {
+    "name": "Let There Be Light",
+    "type": "Documentary",
+    "release": "1946",
+    "inducted": "2010"
+  },
+  {
+    "name": "Letter from an Unknown Woman",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Life and Death of 9413: a Hollywood Extra",
+    "type": "Short subject",
+    "release": "1927",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Life and Times of Rosie the Riveter",
+    "type": "Documentary",
+    "release": "1980",
+    "inducted": "1996"
+  },
+  {
+    "name": "Life of an American Fireman",
+    "type": "Short subject",
+    "release": "1903",
+    "inducted": "2016"
+  },
+  {
+    "name": "The Life of Emile Zola",
+    "type": "Narrative feature",
+    "release": "1937",
+    "inducted": "2000"
+  },
+  {
+    "name": "The Lion King",
+    "type": "Animated narrative feature",
+    "release": "1994",
+    "inducted": "2016"
+  },
+  {
+    "name": "Little Big Man",
+    "type": "Narrative feature",
+    "release": "1970",
+    "inducted": "2014"
+  },
+  {
+    "name": "Little Caesar",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "2000"
+  },
+  {
+    "name": "Little Fugitive",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "1997"
+  },
+  {
+    "name": "Little Miss Marker",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "1998"
+  },
+  {
+    "name": "Little Nemo",
+    "type": "Animated short subject",
+    "release": "1911",
+    "inducted": "2009"
+  },
+  {
+    "name": "Lives of Performers",
+    "type": "Narrative feature",
+    "release": "1972",
+    "inducted": "2017"
+  },
+  {
+    "name": "The Living Desert",
+    "type": "Documentary",
+    "release": "1953",
+    "inducted": "2000"
+  },
+  {
+    "name": "Lonesome",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2010"
+  },
+  {
+    "name": "Lost Horizon",
+    "type": "Narrative feature",
+    "release": "1937",
+    "inducted": "2016"
+  },
+  {
+    "name": "The Lost Weekend",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "2011"
+  },
+  {
+    "name": "The Lost World",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "1998"
+  },
+  {
+    "name": "Louisiana Story",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "1994"
+  },
+  {
+    "name": "Love Finds Andy Hardy",
+    "type": "Narrative feature",
+    "release": "1938",
+    "inducted": "2000"
+  },
+  {
+    "name": "Love Me Tonight",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Lunch Date",
+    "type": "Short subject",
+    "release": "1989",
+    "inducted": "2013"
+  },
+  {
+    "name": "Luxo Jr.",
+    "type": "Animated short subject",
+    "release": "1986",
+    "inducted": "2014"
+  },
+  {
+    "name": "Mabel's Blunder",
+    "type": "Short subject",
+    "release": "1914",
+    "inducted": "2009"
+  },
+  {
+    "name": "Magical Maestro",
+    "type": "Animated short subject",
+    "release": "1952",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Magnificent Ambersons",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Magnificent Seven",
+    "type": "Narrative feature",
+    "release": "1960",
+    "inducted": "2013"
+  },
+  {
+    "name": "Make Way for Tomorrow",
+    "type": "Narrative feature",
+    "release": "1937",
+    "inducted": "2010"
+  },
+  {
+    "name": "The Making of an American",
+    "type": "Short subject",
+    "release": "1920",
+    "inducted": "2005"
+  },
+  {
+    "name": "Malcolm X",
+    "type": "Narrative feature",
+    "release": "1992",
+    "inducted": "2010"
+  },
+  {
+    "name": "The Maltese Falcon",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "1989"
+  },
+  {
+    "name": "The Man Who Shot Liberty Valance",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Manchurian Candidate",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "1994"
+  },
+  {
+    "name": "Manhatta",
+    "type": "Documentary/short subject",
+    "release": "1921",
+    "inducted": "1995"
+  },
+  {
+    "name": "Manhattan",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2001"
+  },
+  {
+    "name": "The March",
+    "type": "Documentary/short subject",
+    "release": "1964",
+    "inducted": "2008"
+  },
+  {
+    "name": "Marian Anderson: the Lincoln Memorial Concert",
+    "type": "Documentary",
+    "release": "1939",
+    "inducted": "2001"
+  },
+  {
+    "name": "The Mark of Zorro",
+    "type": "Narrative feature",
+    "release": "1920",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Mark of Zorro",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "2009"
+  },
+  {
+    "name": "Marty",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "1994"
+  },
+  {
+    "name": "Mary Poppins",
+    "type": "Narrative feature",
+    "release": "1964",
+    "inducted": "2013"
+  },
+  {
+    "name": "MASH",
+    "type": "Narrative feature",
+    "release": "1970",
+    "inducted": "1996"
+  },
+  {
+    "name": "Master Hands",
+    "type": "Documentary",
+    "release": "1936",
+    "inducted": "1999"
+  },
+  {
+    "name": "Matrimony's Speed Limit",
+    "type": "Short subject",
+    "release": "1913",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Matrix",
+    "type": "Narrative feature",
+    "release": "1999",
+    "inducted": "2012"
+  },
+  {
+    "name": "McCabe & Mrs. Miller",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "2010"
+  },
+  {
+    "name": "Mean Streets",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "1997"
+  },
+  {
+    "name": "Medium Cool",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "2003"
+  },
+  {
+    "name": "Meet Me in St. Louis",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "1994"
+  },
+  {
+    "name": "Melody Ranch",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "2002"
+  },
+  {
+    "name": "Memento",
+    "type": "Narrative feature",
+    "release": "2000",
+    "inducted": "2017"
+  },
+  {
+    "name": "Memphis Belle",
+    "type": "Documentary",
+    "release": "1944",
+    "inducted": "2001"
+  },
+  {
+    "name": "Men and Dust",
+    "type": "Documentary/short subject",
+    "release": "1940",
+    "inducted": "2013"
+  },
+  {
+    "name": "Meshes of the Afternoon",
+    "type": "Short subject/experimental film",
+    "release": "1943",
+    "inducted": "1990"
+  },
+  {
+    "name": "Michael Jackson's Thriller",
+    "type": "Music video",
+    "release": "1983",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Middleton Family at the New York World's Fair",
+    "type": "Narrative feature/documentary",
+    "release": "1939",
+    "inducted": "2012"
+  },
+  {
+    "name": "Midnight",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "2013"
+  },
+  {
+    "name": "Midnight Cowboy",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "1994"
+  },
+  {
+    "name": "Mighty Like a Moose",
+    "type": "Short subject",
+    "release": "1926",
+    "inducted": "2007"
+  },
+  {
+    "name": "Mildred Pierce",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "1996"
+  },
+  {
+    "name": "The Miracle of Morgan's Creek",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "2001"
+  },
+  {
+    "name": "Miracle on 34th Street",
+    "type": "Narrative feature",
+    "release": "1947",
+    "inducted": "2005"
+  },
+  {
+    "name": "Miss Lulu Bett",
+    "type": "Narrative feature",
+    "release": "1922",
+    "inducted": "2001"
+  },
+  {
+    "name": "Modern Times",
+    "type": "Narrative feature",
+    "release": "1936",
+    "inducted": "1989"
+  },
+  {
+    "name": "Modesta",
+    "type": "Short subject",
+    "release": "1956",
+    "inducted": "1998"
+  },
+  {
+    "name": "Mom and Dad",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "2005"
+  },
+  {
+    "name": "Moon Breath Beat",
+    "type": "Animated short subject",
+    "release": "1980",
+    "inducted": "2014"
+  },
+  {
+    "name": "Morocco",
+    "type": "Narrative feature",
+    "release": "1930",
+    "inducted": "1992"
+  },
+  {
+    "name": "Motion Painting No. 1",
+    "type": "Animated short subject",
+    "release": "1947",
+    "inducted": "1997"
+  },
+  {
+    "name": "A Movie",
+    "type": "Short subject/experimental film",
+    "release": "1958",
+    "inducted": "1994"
+  },
+  {
+    "name": "Mr. Smith Goes to Washington",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1989"
+  },
+  {
+    "name": "Mrs. Miniver",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "2009"
+  },
+  {
+    "name": "Multiple Sidosis",
+    "type": "Short subject",
+    "release": "1970",
+    "inducted": "2000"
+  },
+  {
+    "name": "The Muppet Movie",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Music Box",
+    "type": "Short subject",
+    "release": "1932",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Music Man",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "2005"
+  },
+  {
+    "name": "The Musketeers of Pig Alley",
+    "type": "Short subject",
+    "release": "1912",
+    "inducted": "2016"
+  },
+  {
+    "name": "My Darling Clementine",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "1991"
+  },
+  {
+    "name": "My Man Godfrey",
+    "type": "Narrative feature",
+    "release": "1936",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Naked City",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Naked Spur",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "1997"
+  },
+  {
+    "name": "Nanook of the North",
+    "type": "Documentary",
+    "release": "1922",
+    "inducted": "1989"
+  },
+  {
+    "name": "Nashville",
+    "type": "Narrative feature",
+    "release": "1975",
+    "inducted": "1992"
+  },
+  {
+    "name": "National Lampoon's Animal House",
+    "type": "Narrative feature",
+    "release": "1978",
+    "inducted": "2001"
+  },
+  {
+    "name": "National Velvet",
+    "type": "Narrative feature",
+    "release": "1944",
+    "inducted": "2003"
+  },
+  {
+    "name": "Naughty Marietta",
+    "type": "Narrative feature",
+    "release": "1935",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Negro Soldier",
+    "type": "Documentary",
+    "release": "1944",
+    "inducted": "2011"
+  },
+  {
+    "name": "Network",
+    "type": "Narrative feature",
+    "release": "1976",
+    "inducted": "2000"
+  },
+  {
+    "name": "Newark Athlete",
+    "type": "Short subject",
+    "release": "1891",
+    "inducted": "2010"
+  },
+  {
+    "name": "Nicholas Brothers Family Home Movies",
+    "type": "Home film",
+    "release": "1930s–1940s",
+    "inducted": "2011"
+  },
+  {
+    "name": "A Night at the Opera",
+    "type": "Narrative feature",
+    "release": "1935",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Night of the Hunter",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "1992"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "1999"
+  },
+  {
+    "name": "Ninotchka",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1990"
+  },
+  {
+    "name": "No Lies",
+    "type": "Short subject",
+    "release": "1973",
+    "inducted": "2008"
+  },
+  {
+    "name": "Norma Rae",
+    "type": "Narrative feature",
+    "release": "1979",
+    "inducted": "2011"
+  },
+  {
+    "name": "North by Northwest",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "1995"
+  },
+  {
+    "name": "(nostalgia)",
+    "type": "Documentary/short subject",
+    "release": "1971",
+    "inducted": "2003"
+  },
+  {
+    "name": "Notes on the Port of St. Francis",
+    "type": "Documentary/short subject",
+    "release": "1951",
+    "inducted": "2013"
+  },
+  {
+    "name": "Nothing But a Man",
+    "type": "Narrative feature",
+    "release": "1964",
+    "inducted": "1993"
+  },
+  {
+    "name": "Notorious",
+    "type": "Narrative feature",
+    "release": "1946",
+    "inducted": "2006"
+  },
+  {
+    "name": "Now, Voyager",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Nutty Professor",
+    "type": "Narrative feature",
+    "release": "1963",
+    "inducted": "2004"
+  },
+  {
+    "name": "OffOn",
+    "type": "Short subject/experimental film",
+    "release": "1968",
+    "inducted": "2004"
+  },
+  {
+    "name": "Oklahoma!",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Old Mill",
+    "type": "Animated short subject",
+    "release": "1937",
+    "inducted": "2015"
+  },
+  {
+    "name": "On the Bowery",
+    "type": "Documentary",
+    "release": "1957",
+    "inducted": "2008"
+  },
+  {
+    "name": "On the Waterfront",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "1989"
+  },
+  {
+    "name": "Once Upon a Time in the West",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "2009"
+  },
+  {
+    "name": "One Flew Over the Cuckoo's Nest",
+    "type": "Narrative feature",
+    "release": "1975",
+    "inducted": "1993"
+  },
+  {
+    "name": "One Froggy Evening",
+    "type": "Animated short subject",
+    "release": "1955",
+    "inducted": "2003"
+  },
+  {
+    "name": "One Survivor Remembers",
+    "type": "Documentary/short subject",
+    "release": "1995",
+    "inducted": "2012"
+  },
+  {
+    "name": "One Week",
+    "type": "Short subject",
+    "release": "1920",
+    "inducted": "2008"
+  },
+  {
+    "name": "Only Angels Have Wings",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "2017"
+  },
+  {
+    "name": "Our Daily Bread",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "2015"
+  },
+  {
+    "name": "Our Day",
+    "type": "Documentary/short subject",
+    "release": "1938",
+    "inducted": "2007"
+  },
+  {
+    "name": "Our Lady of the Sphere",
+    "type": "Experimental film",
+    "release": "1972",
+    "inducted": "2010"
+  },
+  {
+    "name": "Out of the Past",
+    "type": "Narrative feature",
+    "release": "1947",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Outlaw Josey Wales",
+    "type": "Narrative feature",
+    "release": "1976",
+    "inducted": "1996"
+  },
+  {
+    "name": "The Ox-Bow Incident",
+    "type": "Narrative feature",
+    "release": "1943",
+    "inducted": "1998"
+  },
+  {
+    "name": "Parable",
+    "type": "Short subject",
+    "release": "1964",
+    "inducted": "2012"
+  },
+  {
+    "name": "Paris Is Burning",
+    "type": "Documentary",
+    "release": "1990",
+    "inducted": "2016"
+  },
+  {
+    "name": "Pass the Gravy",
+    "type": "Short subject",
+    "release": "1928",
+    "inducted": "1998"
+  },
+  {
+    "name": "Paths of Glory",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "1992"
+  },
+  {
+    "name": "Patton",
+    "type": "Narrative feature",
+    "release": "1970",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Pawnbroker",
+    "type": "Narrative feature",
+    "release": "1964",
+    "inducted": "2008"
+  },
+  {
+    "name": "The Pearl",
+    "type": "Narrative feature",
+    "release": "1947",
+    "inducted": "2002"
+  },
+  {
+    "name": "Peege",
+    "type": "Short subject",
+    "release": "1972",
+    "inducted": "2007"
+  },
+  {
+    "name": "The Perils of Pauline[VIII]",
+    "type": "Film serial",
+    "release": "1914",
+    "inducted": "2008"
+  },
+  {
+    "name": "Peter Pan",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "2000"
+  },
+  {
+    "name": "The Phantom of the Opera",
+    "type": "Narrative feature",
+    "release": "1925",
+    "inducted": "1998"
+  },
+  {
+    "name": "The Philadelphia Story",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1995"
+  },
+  {
+    "name": "Pillow Talk",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Pink Panther",
+    "type": "Narrative feature",
+    "release": "1963",
+    "inducted": "2010"
+  },
+  {
+    "name": "Pinocchio",
+    "type": "Animated narrative feature",
+    "release": "1940",
+    "inducted": "1994"
+  },
+  {
+    "name": "A Place in the Sun",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "1991"
+  },
+  {
+    "name": "Planet of the Apes",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "2001"
+  },
+  {
+    "name": "Please, Don't Bury Me Alive!",
+    "type": "Narrative feature",
+    "release": "1976",
+    "inducted": "2014"
+  },
+  {
+    "name": "The Plow That Broke the Plains",
+    "type": "Documentary/short subject",
+    "release": "1936",
+    "inducted": "1999"
+  },
+  {
+    "name": "Point Blank",
+    "type": "Narrative feature",
+    "release": "1967",
+    "inducted": "2016"
+  },
+  {
+    "name": "Point of Order",
+    "type": "Documentary",
+    "release": "1964",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Poor Little Rich Girl",
+    "type": "Narrative feature",
+    "release": "1917",
+    "inducted": "1991"
+  },
+  {
+    "name": "Popeye the Sailor Meets Sindbad the Sailor",
+    "type": "Animated short subject",
+    "release": "1936",
+    "inducted": "2004"
+  },
+  {
+    "name": "Porgy and Bess",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "2011"
+  },
+  {
+    "name": "Porky in Wackyland",
+    "type": "Animated short subject",
+    "release": "1938",
+    "inducted": "2000"
+  },
+  {
+    "name": "Portrait of Jason",
+    "type": "Documentary",
+    "release": "1967",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Power and the Glory",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2014"
+  },
+  {
+    "name": "The Power of the Press",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2005"
+  },
+  {
+    "name": "Powers of Ten",
+    "type": "Documentary/short subject",
+    "release": "1977",
+    "inducted": "1998"
+  },
+  {
+    "name": "Precious Images",
+    "type": "Compilation short subject",
+    "release": "1986",
+    "inducted": "2009"
+  },
+  {
+    "name": "Preservation of the Sign Language",
+    "type": "Short subject",
+    "release": "1913",
+    "inducted": "2010"
+  },
+  {
+    "name": "President McKinley Inauguration Footage",
+    "type": "Documentary/short subject",
+    "release": "1901",
+    "inducted": "2000"
+  },
+  {
+    "name": "Primary",
+    "type": "Documentary",
+    "release": "1960",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Princess Bride",
+    "type": "Narrative feature",
+    "release": "1987",
+    "inducted": "2016"
+  },
+  {
+    "name": "Princess Nicotine; or, The Smoke Fairy",
+    "type": "Short subject",
+    "release": "1909",
+    "inducted": "2003"
+  },
+  {
+    "name": "The Prisoner of Zenda",
+    "type": "Narrative feature",
+    "release": "1937",
+    "inducted": "1991"
+  },
+  {
+    "name": "The Producers",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "1996"
+  },
+  {
+    "name": "Psycho",
+    "type": "Narrative feature",
+    "release": "1960",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Public Enemy",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "1998"
+  },
+  {
+    "name": "Pull My Daisy",
+    "type": "Short subject",
+    "release": "1959",
+    "inducted": "1996"
+  },
+  {
+    "name": "Pulp Fiction",
+    "type": "Narrative feature",
+    "release": "1994",
+    "inducted": "2013"
+  },
+  {
+    "name": "Punch Drunks",
+    "type": "Short subject",
+    "release": "1934",
+    "inducted": "2002"
+  },
+  {
+    "name": "Pups Is Pups",
+    "type": "Short subject",
+    "release": "1930",
+    "inducted": "2004"
+  },
+  {
+    "name": "Putney Swope",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "2016"
+  },
+  {
+    "name": "Quasi at the Quackadero",
+    "type": "Animated short subject",
+    "release": "1975",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Quiet Man",
+    "type": "Narrative feature",
+    "release": "1952",
+    "inducted": "2013"
+  },
+  {
+    "name": "Raging Bull",
+    "type": "Narrative feature",
+    "release": "1980",
+    "inducted": "1990"
+  },
+  {
+    "name": "Raiders of the Lost Ark",
+    "type": "Narrative feature",
+    "release": "1981",
+    "inducted": "1999"
+  },
+  {
+    "name": "A Raisin in the Sun",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "2005"
+  },
+  {
+    "name": "Rear Window",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "1997"
+  },
+  {
+    "name": "Rebel Without a Cause",
+    "type": "Narrative feature",
+    "release": "1955",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Red Book",
+    "type": "Animated short subject",
+    "release": "1994",
+    "inducted": "2009"
+  },
+  {
+    "name": "Red Dust",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "2006"
+  },
+  {
+    "name": "Red River",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "1990"
+  },
+  {
+    "name": "Regeneration",
+    "type": "Narrative feature",
+    "release": "1915",
+    "inducted": "2000"
+  },
+  {
+    "name": "Reminiscences of a Journey to Lithuania",
+    "type": "Documentary",
+    "release": "1971–1972",
+    "inducted": "2006"
+  },
+  {
+    "name": "Republic Steel Strike Riot Newsreel Footage",
+    "type": "Newsreel",
+    "release": "1937",
+    "inducted": "1997"
+  },
+  {
+    "name": "Return of the Secaucus 7",
+    "type": "Narrative feature",
+    "release": "1980",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Revenge of Pancho Villa",
+    "type": "Narrative feature",
+    "release": "1930–1936",
+    "inducted": "2009"
+  },
+  {
+    "name": "Ride the High Country",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Right Stuff",
+    "type": "Narrative feature",
+    "release": "1983",
+    "inducted": "2013"
+  },
+  {
+    "name": "Rio Bravo",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "2014"
+  },
+  {
+    "name": "Rip Van Winkle[III]",
+    "type": "Film serial",
+    "release": "1896",
+    "inducted": "1995"
+  },
+  {
+    "name": "The River",
+    "type": "Documentary/short subject",
+    "release": "1938",
+    "inducted": "1990"
+  },
+  {
+    "name": "Road to Morocco",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1996"
+  },
+  {
+    "name": "Rocky",
+    "type": "Narrative feature",
+    "release": "1976",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Rocky Horror Picture Show",
+    "type": "Narrative feature",
+    "release": "1975",
+    "inducted": "2005"
+  },
+  {
+    "name": "Roger & Me",
+    "type": "Documentary",
+    "release": "1989",
+    "inducted": "2013"
+  },
+  {
+    "name": "Roman Holiday",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "1999"
+  },
+  {
+    "name": "Rose Hobart",
+    "type": "Short subject/experimental film",
+    "release": "1936",
+    "inducted": "2001"
+  },
+  {
+    "name": "Rosemary's Baby",
+    "type": "Narrative feature",
+    "release": "1968",
+    "inducted": "2014"
+  },
+  {
+    "name": "Ruggles of Red Gap",
+    "type": "Narrative feature",
+    "release": "1935",
+    "inducted": "2014"
+  },
+  {
+    "name": "Rushmore",
+    "type": "Narrative feature",
+    "release": "1998",
+    "inducted": "2016"
+  },
+  {
+    "name": "Sabrina",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "2002"
+  },
+  {
+    "name": "Safety Last!",
+    "type": "Narrative feature",
+    "release": "1923",
+    "inducted": "1994"
+  },
+  {
+    "name": "Salesman",
+    "type": "Documentary",
+    "release": "1969",
+    "inducted": "1992"
+  },
+  {
+    "name": "Salomé",
+    "type": "Narrative feature",
+    "release": "1923",
+    "inducted": "2000"
+  },
+  {
+    "name": "Salt of the Earth",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "1992"
+  },
+  {
+    "name": "Samsara: Death and Rebirth in Cambodia",
+    "type": "Documentary",
+    "release": "1990",
+    "inducted": "2012"
+  },
+  {
+    "name": "San Francisco Earthquake & Fire: April 18, 1906",
+    "type": "Documentary",
+    "release": "1906",
+    "inducted": "2005"
+  },
+  {
+    "name": "Saturday Night Fever",
+    "type": "Narrative feature",
+    "release": "1977",
+    "inducted": "2010"
+  },
+  {
+    "name": "Saving Private Ryan",
+    "type": "Narrative feature",
+    "release": "1998",
+    "inducted": "2014"
+  },
+  {
+    "name": "Scarface",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "1994"
+  },
+  {
+    "name": "Schindler's List",
+    "type": "Narrative feature",
+    "release": "1993",
+    "inducted": "2004"
+  },
+  {
+    "name": "Scratch and Crow",
+    "type": "Animated short subject",
+    "release": "1995",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Searchers",
+    "type": "Narrative feature",
+    "release": "1956",
+    "inducted": "1989"
+  },
+  {
+    "name": "Seconds",
+    "type": "Narrative feature",
+    "release": "1966",
+    "inducted": "2015"
+  },
+  {
+    "name": "Serene Velocity",
+    "type": "Short subject",
+    "release": "1970",
+    "inducted": "2001"
+  },
+  {
+    "name": "Sergeant York",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "2008"
+  },
+  {
+    "name": "Seven Brides for Seven Brothers",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "2004"
+  },
+  {
+    "name": "Seventh Heaven",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "1995"
+  },
+  {
+    "name": "sex, lies, and videotape",
+    "type": "Narrative feature",
+    "release": "1989",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Sex Life of the Polyp",
+    "type": "Short subject",
+    "release": "1928",
+    "inducted": "2007"
+  },
+  {
+    "name": "Shadow of a Doubt",
+    "type": "Narrative feature",
+    "release": "1943",
+    "inducted": "1991"
+  },
+  {
+    "name": "Shadows",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "1993"
+  },
+  {
+    "name": "Shaft",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "2000"
+  },
+  {
+    "name": "Shane",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "1993"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "type": "Narrative feature",
+    "release": "1994",
+    "inducted": "2015"
+  },
+  {
+    "name": "She Done Him Wrong",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "1996"
+  },
+  {
+    "name": "Sherlock Jr.",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "1991"
+  },
+  {
+    "name": "Sherman's March",
+    "type": "Documentary",
+    "release": "1986",
+    "inducted": "2000"
+  },
+  {
+    "name": "Shock Corridor",
+    "type": "Narrative feature",
+    "release": "1963",
+    "inducted": "1996"
+  },
+  {
+    "name": "Shoes",
+    "type": "Narrative feature",
+    "release": "1916",
+    "inducted": "2014"
+  },
+  {
+    "name": "The Shop Around the Corner",
+    "type": "Narrative feature",
+    "release": "1940",
+    "inducted": "1999"
+  },
+  {
+    "name": "Show Boat",
+    "type": "Narrative feature",
+    "release": "1936",
+    "inducted": "1996"
+  },
+  {
+    "name": "Show People",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2003"
+  },
+  {
+    "name": "Siege",
+    "type": "Documentary/short subject",
+    "release": "1940",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "type": "Narrative feature",
+    "release": "1991",
+    "inducted": "2011"
+  },
+  {
+    "name": "Singin' in the Rain",
+    "type": "Narrative feature",
+    "release": "1952",
+    "inducted": "1989"
+  },
+  {
+    "name": "Sink or Swim",
+    "type": "Experimental film",
+    "release": "1990",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Sinking of the Lusitania",
+    "type": "Animated short subject",
+    "release": "1918",
+    "inducted": "2017"
+  },
+  {
+    "name": "Sky High",
+    "type": "Narrative feature",
+    "release": "1922",
+    "inducted": "1998"
+  },
+  {
+    "name": "Slacker",
+    "type": "Narrative feature",
+    "release": "1991",
+    "inducted": "2012"
+  },
+  {
+    "name": "Snow-White",
+    "type": "Animated short subject",
+    "release": "1933",
+    "inducted": "1994"
+  },
+  {
+    "name": "Snow White and the Seven Dwarfs",
+    "type": "Animated narrative feature",
+    "release": "1937",
+    "inducted": "1989"
+  },
+  {
+    "name": "So's Your Old Man",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "2008"
+  },
+  {
+    "name": "Solomon Sir Jones films",
+    "type": "Home films",
+    "release": "1924-1928",
+    "inducted": "2016"
+  },
+  {
+    "name": "Some Like It Hot",
+    "type": "Narrative feature",
+    "release": "1959",
+    "inducted": "1989"
+  },
+  {
+    "name": "The Son of the Sheik",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "2003"
+  },
+  {
+    "name": "Sons of the Desert",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2012"
+  },
+  {
+    "name": "The Sound of Music",
+    "type": "Narrative feature",
+    "release": "1965",
+    "inducted": "2001"
+  },
+  {
+    "name": "Spartacus",
+    "type": "Narrative feature",
+    "release": "1960",
+    "inducted": "2017"
+  },
+  {
+    "name": "The Spook Who Sat by the Door",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "2012"
+  },
+  {
+    "name": "Stagecoach",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1995"
+  },
+  {
+    "name": "Stand and Deliver",
+    "type": "Narrative feature",
+    "release": "1988",
+    "inducted": "2011"
+  },
+  {
+    "name": "A Star Is Born",
+    "type": "Narrative feature",
+    "release": "1954",
+    "inducted": "2000"
+  },
+  {
+    "name": "Star Theatre",
+    "type": "Short subject",
+    "release": "1901",
+    "inducted": "2002"
+  },
+  {
+    "name": "Star Wars",
+    "type": "Narrative feature",
+    "release": "1977",
+    "inducted": "1989"
+  },
+  {
+    "name": "Stark Love",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "2009"
+  },
+  {
+    "name": "State Fair",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2014"
+  },
+  {
+    "name": "Steamboat Bill, Jr.",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2016"
+  },
+  {
+    "name": "Steamboat Willie",
+    "type": "Animated short subject",
+    "release": "1928",
+    "inducted": "1998"
+  },
+  {
+    "name": "The Sting",
+    "type": "Narrative feature",
+    "release": "1973",
+    "inducted": "2005"
+  },
+  {
+    "name": "Stormy Weather",
+    "type": "Narrative feature",
+    "release": "1943",
+    "inducted": "2001"
+  },
+  {
+    "name": "The Story of G.I. Joe",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "2009"
+  },
+  {
+    "name": "The Story of Menstruation",
+    "type": "Animated short subject",
+    "release": "1946",
+    "inducted": "2015"
+  },
+  {
+    "name": "Stranger Than Paradise",
+    "type": "Narrative feature",
+    "release": "1984",
+    "inducted": "2002"
+  },
+  {
+    "name": "A Streetcar Named Desire",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Strong Man",
+    "type": "Narrative feature",
+    "release": "1926",
+    "inducted": "2007"
+  },
+  {
+    "name": "A Study in Reds",
+    "type": "Short subject",
+    "release": "1932",
+    "inducted": "2009"
+  },
+  {
+    "name": "Study of a River",
+    "type": "Short subject/experimental film",
+    "release": "1997",
+    "inducted": "2010"
+  },
+  {
+    "name": "St. Louis Blues",
+    "type": "Short subject",
+    "release": "1929",
+    "inducted": "2006"
+  },
+  {
+    "name": "Sullivan's Travels",
+    "type": "Narrative feature",
+    "release": "1941",
+    "inducted": "1990"
+  },
+  {
+    "name": "Sunrise: A Song of Two Humans",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "1989"
+  },
+  {
+    "name": "Sunset Boulevard",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "1989"
+  },
+  {
+    "name": "Superman",
+    "type": "Narrative feature",
+    "release": "1978",
+    "inducted": "2017"
+  },
+  {
+    "name": "Suzanne, Suzanne",
+    "type": "Documentary short subject",
+    "release": "1982",
+    "inducted": "2016"
+  },
+  {
+    "name": "Sweet Smell of Success",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "1993"
+  },
+  {
+    "name": "Swing Time",
+    "type": "Narrative feature",
+    "release": "1936",
+    "inducted": "2004"
+  },
+  {
+    "name": "Symbiopsychotaxiplasm",
+    "type": "Documentary",
+    "release": "1968",
+    "inducted": "2015"
+  },
+  {
+    "name": "The T.A.M.I. Show",
+    "type": "Documentary",
+    "release": "1964",
+    "inducted": "2006"
+  },
+  {
+    "name": "Tabu: A Story of the South Seas",
+    "type": "Narrative feature",
+    "release": "1931",
+    "inducted": "1994"
+  },
+  {
+    "name": "Tacoma Narrows Bridge Collapse",
+    "type": "Home film",
+    "release": "1940",
+    "inducted": "1998"
+  },
+  {
+    "name": "The Tall T",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2000"
+  },
+  {
+    "name": "Tarantella",
+    "type": "Short subject/experimental film",
+    "release": "1940",
+    "inducted": "2010"
+  },
+  {
+    "name": "Tarzan and His Mate",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "2003"
+  },
+  {
+    "name": "Taxi Driver",
+    "type": "Narrative feature",
+    "release": "1976",
+    "inducted": "1994"
+  },
+  {
+    "name": "The Tell-Tale Heart",
+    "type": "Animated short subject",
+    "release": "1953",
+    "inducted": "2001"
+  },
+  {
+    "name": "The Ten Commandments",
+    "type": "Narrative feature",
+    "release": "1956",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Terminator",
+    "type": "Narrative feature",
+    "release": "1984",
+    "inducted": "2008"
+  },
+  {
+    "name": "Tess of the Storm Country",
+    "type": "Narrative feature",
+    "release": "1914",
+    "inducted": "2006"
+  },
+  {
+    "name": "Tevya",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1991"
+  },
+  {
+    "name": "Thelma & Louise",
+    "type": "Narrative feature",
+    "release": "1991",
+    "inducted": "2016"
+  },
+  {
+    "name": "Thelonious Monk: Straight, No Chaser",
+    "type": "Documentary",
+    "release": "1988",
+    "inducted": "2017"
+  },
+  {
+    "name": "Theodore Case Sound Test: Gus Visser and His Singing Duck",
+    "type": "Short subject",
+    "release": "1925",
+    "inducted": "2002"
+  },
+  {
+    "name": "There It Is",
+    "type": "Short subject",
+    "release": "1928",
+    "inducted": "2004"
+  },
+  {
+    "name": "They Call It Pro Football",
+    "type": "Documentary",
+    "release": "1967",
+    "inducted": "2012"
+  },
+  {
+    "name": "The Thief of Bagdad",
+    "type": "Narrative feature",
+    "release": "1924",
+    "inducted": "1996"
+  },
+  {
+    "name": "The Thin Blue Line",
+    "type": "Documentary",
+    "release": "1988",
+    "inducted": "2001"
+  },
+  {
+    "name": "The Thin Man",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Thing from Another World",
+    "type": "Narrative feature",
+    "release": "1951",
+    "inducted": "2001"
+  },
+  {
+    "name": "Think of Me First as a Person",
+    "type": "Documentary/home film",
+    "release": "1960–1975",
+    "inducted": "2006"
+  },
+  {
+    "name": "This Is Cinerama",
+    "type": "Documentary",
+    "release": "1952",
+    "inducted": "2002"
+  },
+  {
+    "name": "This Is Spinal Tap",
+    "type": "Narrative feature",
+    "release": "1984",
+    "inducted": "2002"
+  },
+  {
+    "name": "Three Little Pigs",
+    "type": "Animated short subject",
+    "release": "1933",
+    "inducted": "2007"
+  },
+  {
+    "name": "Through Navajo Eyes[IV]",
+    "type": "Film serial",
+    "release": "1966",
+    "inducted": "2002"
+  },
+  {
+    "name": "Time and Dreams",
+    "type": "Documentary",
+    "release": "1976",
+    "inducted": "2017"
+  },
+  {
+    "name": "A Time for Burning",
+    "type": "Documentary",
+    "release": "1966",
+    "inducted": "2005"
+  },
+  {
+    "name": "A Time Out of War",
+    "type": "Short subject",
+    "release": "1954",
+    "inducted": "2006"
+  },
+  {
+    "name": "The Times of Harvey Milk",
+    "type": "Documentary",
+    "release": "1984",
+    "inducted": "2012"
+  },
+  {
+    "name": "Tin Toy",
+    "type": "Animated short subject",
+    "release": "1988",
+    "inducted": "2003"
+  },
+  {
+    "name": "Titanic",
+    "type": "Narrative feature",
+    "release": "1997",
+    "inducted": "2017"
+  },
+  {
+    "name": "To Be or Not to Be",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1996"
+  },
+  {
+    "name": "To Fly!",
+    "type": "Documentary",
+    "release": "1976",
+    "inducted": "1995"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "type": "Narrative feature",
+    "release": "1962",
+    "inducted": "1995"
+  },
+  {
+    "name": "To Sleep with Anger",
+    "type": "Narrative feature",
+    "release": "1990",
+    "inducted": "2017"
+  },
+  {
+    "name": "Tol'able David",
+    "type": "Narrative feature",
+    "release": "1921",
+    "inducted": "2007"
+  },
+  {
+    "name": "Tom, Tom, the Piper's Son",
+    "type": "Experimental film",
+    "release": "1969–1971",
+    "inducted": "2007"
+  },
+  {
+    "name": "Tootsie",
+    "type": "Narrative feature",
+    "release": "1982",
+    "inducted": "1998"
+  },
+  {
+    "name": "Top Gun",
+    "type": "Narrative feature",
+    "release": "1986",
+    "inducted": "2015"
+  },
+  {
+    "name": "Top Hat",
+    "type": "Narrative feature",
+    "release": "1935",
+    "inducted": "1990"
+  },
+  {
+    "name": "Topaz",
+    "type": "Documentary",
+    "release": "1943–1945",
+    "inducted": "1996"
+  },
+  {
+    "name": "Touch of Evil",
+    "type": "Narrative feature",
+    "release": "1958",
+    "inducted": "1993"
+  },
+  {
+    "name": "Toy Story",
+    "type": "Animated narrative feature",
+    "release": "1995",
+    "inducted": "2005"
+  },
+  {
+    "name": "Traffic in Souls",
+    "type": "Narrative feature",
+    "release": "1913",
+    "inducted": "2006"
+  },
+  {
+    "name": "Trance and Dance in Bali",
+    "type": "Documentary/short subject",
+    "release": "1936–1939[V]",
+    "inducted": "1999"
+  },
+  {
+    "name": "The Treasure of the Sierra Madre",
+    "type": "Narrative feature",
+    "release": "1948",
+    "inducted": "1990"
+  },
+  {
+    "name": "A Tree Grows in Brooklyn",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "2010"
+  },
+  {
+    "name": "A Trip Down Market Street",
+    "type": "Documentary",
+    "release": "1906",
+    "inducted": "2010"
+  },
+  {
+    "name": "Trouble in Paradise",
+    "type": "Narrative feature",
+    "release": "1932",
+    "inducted": "1991"
+  },
+  {
+    "name": "Tulips Shall Grow",
+    "type": "Animated short subject",
+    "release": "1942",
+    "inducted": "1997"
+  },
+  {
+    "name": "Twelve O'Clock High",
+    "type": "Narrative feature",
+    "release": "1949",
+    "inducted": "1998"
+  },
+  {
+    "name": "Twentieth Century",
+    "type": "Narrative feature",
+    "release": "1934",
+    "inducted": "2011"
+  },
+  {
+    "name": "Two-Lane Blacktop",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "2012"
+  },
+  {
+    "name": "Uncle Tom's Cabin",
+    "type": "Narrative feature",
+    "release": "1914",
+    "inducted": "2012"
+  },
+  {
+    "name": "Under Western Stars",
+    "type": "Narrative feature",
+    "release": "1938",
+    "inducted": "2009"
+  },
+  {
+    "name": "Unforgiven",
+    "type": "Narrative feature",
+    "release": "1992",
+    "inducted": "2004"
+  },
+  {
+    "name": "Unmasked",
+    "type": "Narrative feature",
+    "release": "1917",
+    "inducted": "2014"
+  },
+  {
+    "name": "V-E +1",
+    "type": "Documentary",
+    "release": "1945",
+    "inducted": "2014"
+  },
+  {
+    "name": "Verbena Tragica",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1996"
+  },
+  {
+    "name": "Vertigo",
+    "type": "Narrative feature",
+    "release": "1958",
+    "inducted": "1989"
+  },
+  {
+    "name": "A Virtuous Vamp",
+    "type": "Narrative feature",
+    "release": "1919",
+    "inducted": "2013"
+  },
+  {
+    "name": "A Walk in the Sun",
+    "type": "Narrative feature",
+    "release": "1945",
+    "inducted": "2016"
+  },
+  {
+    "name": "Wanda",
+    "type": "Narrative feature",
+    "release": "1970",
+    "inducted": "2017"
+  },
+  {
+    "name": "The Way of Peace",
+    "type": "Narrative short",
+    "release": "1947",
+    "inducted": "2014"
+  },
+  {
+    "name": "The War of the Worlds",
+    "type": "Narrative feature",
+    "release": "1953",
+    "inducted": "2011"
+  },
+  {
+    "name": "Water and Power",
+    "type": "Documentary",
+    "release": "1989",
+    "inducted": "2008"
+  },
+  {
+    "name": "The Wedding March",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "2003"
+  },
+  {
+    "name": "West Side Story",
+    "type": "Narrative feature",
+    "release": "1961",
+    "inducted": "1997"
+  },
+  {
+    "name": "Westinghouse Works, 1904[VI]",
+    "type": "Film serial",
+    "release": "1904",
+    "inducted": "1998"
+  },
+  {
+    "name": "What's Opera, Doc?",
+    "type": "Animated short subject",
+    "release": "1957",
+    "inducted": "1992"
+  },
+  {
+    "name": "Where Are My Children?",
+    "type": "Narrative feature",
+    "release": "1916",
+    "inducted": "1993"
+  },
+  {
+    "name": "White Fawn's Devotion",
+    "type": "Short subject",
+    "release": "1910",
+    "inducted": "2008"
+  },
+  {
+    "name": "White Heat",
+    "type": "Narrative feature",
+    "release": "1949",
+    "inducted": "2003"
+  },
+  {
+    "name": "Who Framed Roger Rabbit",
+    "type": "Animated/Live-action hybrid narrative feature",
+    "release": "1988",
+    "inducted": "2016"
+  },
+  {
+    "name": "Who's Afraid of Virginia Woolf?",
+    "type": "Narrative feature",
+    "release": "1966",
+    "inducted": "2013"
+  },
+  {
+    "name": "Why Man Creates",
+    "type": "Animated documentary/short subject",
+    "release": "1968",
+    "inducted": "2002"
+  },
+  {
+    "name": "Why We Fight[IX]",
+    "type": "Documentary film serial",
+    "release": "1943–1945",
+    "inducted": "2000"
+  },
+  {
+    "name": "Wild and Woolly",
+    "type": "Narrative feature",
+    "release": "1917",
+    "inducted": "2002"
+  },
+  {
+    "name": "Wild Boys of the Road",
+    "type": "Narrative feature",
+    "release": "1933",
+    "inducted": "2013"
+  },
+  {
+    "name": "The Wild Bunch",
+    "type": "Narrative feature",
+    "release": "1969",
+    "inducted": "1999"
+  },
+  {
+    "name": "Wild River",
+    "type": "Narrative feature",
+    "release": "1960",
+    "inducted": "2002"
+  },
+  {
+    "name": "Will Success Spoil Rock Hunter?",
+    "type": "Narrative feature",
+    "release": "1957",
+    "inducted": "2000"
+  },
+  {
+    "name": "Willy Wonka & the Chocolate Factory",
+    "type": "Narrative feature",
+    "release": "1971",
+    "inducted": "2014"
+  },
+  {
+    "name": "Winchester '73",
+    "type": "Narrative feature",
+    "release": "1950",
+    "inducted": "2015"
+  },
+  {
+    "name": "The Wind",
+    "type": "Narrative feature",
+    "release": "1928",
+    "inducted": "1993"
+  },
+  {
+    "name": "Wings",
+    "type": "Narrative feature",
+    "release": "1927",
+    "inducted": "1997"
+  },
+  {
+    "name": "The Wishing Ring: An Idyll of Old England",
+    "type": "Narrative feature",
+    "release": "1914",
+    "inducted": "2012"
+  },
+  {
+    "name": "With the Abraham Lincoln Brigade in Spain",
+    "type": "Documentary",
+    "release": "1937-1938",
+    "inducted": "2017"
+  },
+  {
+    "name": "Within Our Gates",
+    "type": "Narrative feature",
+    "release": "1920",
+    "inducted": "1992"
+  },
+  {
+    "name": "The Wizard of Oz",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "1989"
+  },
+  {
+    "name": "Woman of the Year",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1999"
+  },
+  {
+    "name": "A Woman Under the Influence",
+    "type": "Narrative feature",
+    "release": "1974",
+    "inducted": "1990"
+  },
+  {
+    "name": "The Women",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "2007"
+  },
+  {
+    "name": "Woodstock",
+    "type": "Documentary",
+    "release": "1970",
+    "inducted": "1996"
+  },
+  {
+    "name": "Wuthering Heights",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "2007"
+  },
+  {
+    "name": "Yankee Doodle Dandy",
+    "type": "Narrative feature",
+    "release": "1942",
+    "inducted": "1993"
+  },
+  {
+    "name": "Young Frankenstein",
+    "type": "Narrative feature",
+    "release": "1974",
+    "inducted": "2003"
+  },
+  {
+    "name": "Young Mr. Lincoln",
+    "type": "Narrative feature",
+    "release": "1939",
+    "inducted": "2003"
+  },
+  {
+    "name": "Zapruder film",
+    "type": "Home film",
+    "release": "1963",
+    "inducted": "1994"
+  }
+]
