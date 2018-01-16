@@ -3,6 +3,7 @@ const path = require('path');
 const ExtractTextWebpackPlugin = require('extract-text-webpack-plugin');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin'); // require webpack plugin
 const OptimizeCSSAssets = require('optimize-css-assets-webpack-plugin'); // require webpack plugin
+const ghpages = require('gh-pages');
 
 let config = {
   entry: './src/index.js',
@@ -45,4 +46,5 @@ if (process.env.NODE_ENV === 'production') { // if we're in production mode, her
     new webpack.optimize.UglifyJsPlugin(), // call the uglify plugin
     new OptimizeCSSAssets() // call the css optimizer (minfication)
   );
+  ghpages.publish('dist', function(err) {});
 }

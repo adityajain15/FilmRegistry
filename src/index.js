@@ -3,15 +3,19 @@ import * as d3 from "d3"
 import colorMap from "./colorMap"
 
 let width = window.innerWidth;
-let height = window.innerHeight;
+let height = window.innerHeight/4;
 const margin = 0.1*window.innerWidth;
 
-const svg = d3.select('body').append('svg')
-  .attr('id','viz')
-  .style("width",width)
-  .style("height",height)
+const outerSvg = d3.select('body')
+  .append('svg')
+  .attr("xmlns","http://www.w3.org/2000/svg")
+  .attr("width",width)
+  .attr("height",height)
+  .attr("viewBox",`0 0 ${width} ${height}`)
+  
+const svg = outerSvg.attr('id','viz')
   .append("g")
-  .style("transform", `translate(${margin}px,${height/2}px)`)
+  .style("transform", `translate(${margin}px,${margin}px)`)
 
 d3.json('data.json',function(resp){
 	
@@ -32,18 +36,7 @@ d3.json('data.json',function(resp){
   svg.append("g")
     .call(axis);
 
-  //console.log(resp.map((d)=>d.type))
   let numGenres = new Set(resp.map((d)=>d.type))
-  console.log(numGenres)
-  /*  
-  svg.selectAll("circle").data(resp).enter().append("circle")
-  .attr("class","movies")
-  .attr("release",function(d){return d.release})
-  .attr("cy", 0)
-  .attr("cx", function(d) { return theScale(parseInt(d.release))})
-  .attr("r", function(d) { return 3 });*/
-
-  //console.log(resp)
 
   svg.selectAll("path").data(resp).enter().append("path")
   .attr("class","movies")
@@ -96,10 +89,14 @@ function animateYear(year){
   .ease(d3.easeCubicInOut)
   .style("opacity",0.25)
   .style("stroke-width","0.1")
+}
 
-  
-
-
+window.onresize = function(){
+  let width = window.innerWidth;
+  let height = window.innerHeight;
+  const margin = 0.1*window.innerWidth;
+  outerSvg.attr("width",width)
+     .attr("height",height)
 }
 
 
